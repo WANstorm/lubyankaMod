@@ -80,6 +80,7 @@ if = {
 	}
 }
 
+#politics thing, change it if you want, ok?
 set_politics = {
 
     ruling_party = communism
