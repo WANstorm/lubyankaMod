@@ -3,6 +3,13 @@ CMD = {
 	color = rgb { 164 66 75 }
 	color_ui = rgb { 164 66 75 }
 }
+
+
+GDT = {
+	color = rgb { 220 63 63 }
+	color_ui = rgb { 220 63 63 }
+}
+
 GER = {
 	color = HSV { 0.1 0.15 0.4 }
 	color_ui = rgb { 138 155 116 }
