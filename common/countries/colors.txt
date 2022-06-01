@@ -1,4 +1,10 @@
 #reload countrycolors
+
+ALA = {
+	color = rgb { 102 26 46 }
+	color_ui = rgb { 102 26 46 }
+}
+
 CMD = {
 	color = rgb { 164 66 75 }
 	color_ui = rgb { 164 66 75 }
