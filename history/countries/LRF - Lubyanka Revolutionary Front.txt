@@ -1,4 +1,4 @@
-﻿capital = 247
+﻿capital = 219
 
 oob = "BLR_1936"
 
@@ -83,25 +83,27 @@ if = {
 #politics thing, change it if you want, ok?
 set_politics = {
 
-    ruling_party = communism
+    ruling_party = neutrality 
     elections_allowed = no
 
 }
 
 set_popularities = {
 	democratic = 15
-	neutrality = 20
-	communism = 60
+	neutrality = 60
+	communism = 20
 	fascism = 5
 }
 
 create_country_leader = {
-    name = "Panteleimon Ponomarenko"
+    name = "default"
     desc = ""
-	picture = GFX_portrait_Panteleimon_Ponomarenko
+	picture = gfx/leaders/default.dds
     expire = "1965.1.1"
-    ideology = stalinism
+    ideology = centrism
     traits = {
         #
     }
+}
+
 }

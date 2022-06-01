@@ -1,5 +1,10 @@
 #reload countrycolors
 
+LRF = {
+	color = rgb { 123 4 7 }
+	color_ui = rgb { 123 4 7 }
+}
+
 ALA = {
 	color = rgb { 102 26 46 }
 	color_ui = rgb { 102 26 46 }
@@ -25,8 +30,8 @@ ENG = {
 	color_ui = rgb { 255 73 121 }
 }
 SOV = {
-	color = rgb { 125 13 24 }
-	color_ui = rgb { 163 17 31 }
+	color = rgb { 0 0 0 }
+	color_ui = rgb { 0 0 0 }
 }
 SWE = {
 	color = rgb { 36 132 247 }
