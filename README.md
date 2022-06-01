@@ -7,4 +7,3 @@
 * Add leader portraits and flags.
 * add national focuses
 * add capitals
-* 
